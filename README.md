@@ -1,2 +1,2 @@
 # Praktikum25062026
-Travel Bus JFrameForm Java
+Travel Bus & Gaji Karyawan JFrameForm Java
